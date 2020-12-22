@@ -1,0 +1,13 @@
+{
+    "id":"sample2",
+    "name":"Example Project with Text Analytics",
+    "description":"This project contains pre-loaded example assets to help you learn about Text Analytics in Watson Studio. Run the flow to launch the Interactive Workbench. In this example, a hotel manager is interested in learning what customers think about the hotel. The flow uses Text Analytics nodes to analyze fictional text data about hotel personnel, comfort, cleanliness, price, etc.",
+    "dateCreated":"2019-11-04T18:07:59Z",
+    "dateUpdated":"2019-11-04T18:07:59Z",
+    "storage":{
+        "type":"desktop_files",
+        "properties":{
+            "root":"C:\\Users\\fdew\\AppData\\Roaming\\IBM Watson Studio\\projects\\sample2"
+        }
+    }
+}
