@@ -44,7 +44,12 @@ class Basic:
         self.classifyPopModel = []
         self.baseParameterSet = []
     
-    def addPopAttribute()
+    def addPopAttribute(self, dictData, index=-1):
+        if index<0:
+            self.popAttribute['list'].append(dictData)
+        else :
+            self.popAttribute['list'].insert(index, dictData)
+
     def insertFirstPop(self, id):
         self.firstPop['id'] = id
     
